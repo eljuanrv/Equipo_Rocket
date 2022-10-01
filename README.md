@@ -1,2 +1,2 @@
 # Equipo_Rocket
-Es el repositorio de nuestro proyecto
+## Challenge: *LEARNING THROUGH THE LOOKING GLASS*
