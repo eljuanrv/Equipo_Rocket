@@ -1,2 +1,2 @@
 # Equipo_Rocket
-## Challenge: *LEARNING THROUGH THE LOOKING GLASS*
+## Challenge: **LEARNING THROUGH THE LOOKING GLASS**
